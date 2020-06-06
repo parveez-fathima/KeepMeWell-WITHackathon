@@ -21,9 +21,9 @@ Evaluate -> Consult -> Test for COVID19 proactively is the new normal
 KeepMeWell chat application will act as an answer for open and voluntary testing in the time of need. By aiding any queries related to testing for COVID-19. The end user is equipped with updated and most important information regarding COVID-19 testing. 
 
 Giving access to the following informtion:
-•	Available testing centers with their rating and testing kit availability. All the facilities offered by the testing centers. 
-•	How equipped the hospitals are around the enduser to treat the COVID-19 patients. 
-•	By capturing the relevant and right information we will aid the mass testing and maximizing the testing feasibility for any location. 
+* Available testing centers with their rating and testing kit availability. All the facilities offered by the testing centers. 
+* How equipped the hospitals are around the enduser to treat the COVID-19 patients. 
+* By capturing the relevant and right information we will aid the mass testing and maximizing the testing feasibility for any location. 
 With the Analytics capability that we envision to provide appropriate trends on the testing patterns. Also, helping the government bodies to get right data on the demands for testing and the stock availability in every ward. 
 
 ## How it works
