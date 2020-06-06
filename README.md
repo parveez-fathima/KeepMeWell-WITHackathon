@@ -42,8 +42,9 @@ The above diagram shows the technical component architecture of the system
 * The IBM Web Chat component to be used as application frontend, for integration into existing mobile/web applications. 
 * The application backend built using ASP.NET
 * The KeepMeWell application (Frontend + Backend) to be deployed using IBM Cloud Foundry 
+
+**Implemented as part of the hackthon**
 ```
-Implemented as part of the hackthon
 ----------------------------------------
 ```
 2. The requests are directed to the Watson Assistant, which has skills specific to the use case (COVID test centers, hospitals, generic queries, etc...)
