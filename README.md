@@ -63,10 +63,11 @@ Etc...
 * External Data Sources and APIs – to get COVID related information
 Etc...
 
+```
 ## Try It
 ```
 * [KeepMeWell](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=c0008bb7-c974-44aa-8bc1-8fcccba935c6&serviceInstanceID=1b5905fd-895a-4af2-b2ed-dac14f5aa45c) - Chat application using IBM Watson Assistant
-```
+
 
 ## Solution RoadMap
 <img src="images/RoadMap.jpg" />
