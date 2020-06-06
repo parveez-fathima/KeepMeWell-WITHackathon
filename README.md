@@ -32,7 +32,7 @@ With the Analytics capability that we envision to provide appropriate trends on 
 <img src="images/HighLevelDesign.jpg" />
 
 ### Business Model
-<img src="images/HighLevelDesign.jpg" />
+<img src="images/BusinessModel.jpg" />
 
 ### Solution Architecture
 <img src="images/SolutionArchitecture.jpg" />
@@ -43,9 +43,13 @@ The above diagram shows the technical component architecture of the system
 * The application backend built using ASP.NET
 * The KeepMeWell application (Frontend + Backend) to be deployed using IBM Cloud Foundry 
 ```
-*Implemented as part of the hackthon*
+Implemented as part of the hackthon
+----------------------------------------
+```
 2. The requests are directed to the Watson Assistant, which has skills specific to the use case (COVID test centers, hospitals, generic queries, etc...)
 * Test Center and Hospital Information dialog skills added and trained.
+```
+-----------------------------------------
 ```
 3.	application plans to integrate with various IBM Cloud services
 * Watson Discovery – for search on COVID generic queries and news
@@ -59,7 +63,7 @@ Etc...
 Etc...
 
 ## Try It
-* [KeepMeWell] (https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=c0008bb7-c974-44aa-8bc1-8fcccba935c6&serviceInstanceID=1b5905fd-895a-4af2-b2ed-dac14f5aa45c) - Chat application using IBM Watson Assistant
+* [KeepMeWell](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=c0008bb7-c974-44aa-8bc1-8fcccba935c6&serviceInstanceID=1b5905fd-895a-4af2-b2ed-dac14f5aa45c) - Chat application using IBM Watson Assistant
 
 
 ## Authors
