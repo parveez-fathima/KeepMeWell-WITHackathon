@@ -32,7 +32,7 @@ With the Analytics capability that we envision to provide appropriate trends on 
 <img src="images/HighLevelDesign.jpg" />
 
 ### Business Model
-<img src="images/BusinessModel.jpg" />
+<img src="images/BusinessModel.JPG" />
 
 ### Solution Architecture
 <img src="images/SolutionArchitecture.jpg" />
