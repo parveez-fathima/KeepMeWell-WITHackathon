@@ -66,6 +66,15 @@ Etc...
 ## Try It
 * [KeepMeWell](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=c0008bb7-c974-44aa-8bc1-8fcccba935c6&serviceInstanceID=1b5905fd-895a-4af2-b2ed-dac14f5aa45c) - Chat application using IBM Watson Assistant
 
+## Solution RoadMap
+<img src="images/RoadMap.jpg" />
+
+KeepMeWell has some amazing enhancements lined up in the roadmap.
+* Sync with hospital and testing center database
+* Book a test - A user who already has symptoms will be of highest priority to book a test vs a user who does not have symptoms but wants to book a test as he works in essential services field.
+* Manage demand supply of test kits 
+* Antibodies test results captured to identify population immune to pandemic
+* KeepMeWell can also aid in Community testing
 
 ## Authors
 * Hema Thota
